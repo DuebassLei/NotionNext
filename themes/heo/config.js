@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: '@海边的小溪鱼',
   HEO_HERO_TITLE_4: '基于NotionNext搭建的小站',
-  HEO_HERO_TITLE_5: '前路漫漫，当克己，当慎独，别担心，我们不可能什么都有，也别灰心，我们不可能什么也没有',
+  HEO_HERO_TITLE_5: '前路漫漫，当克己，当慎独~',
   HEO_HERO_TITLE_LINK: 'https://gaosanshi.dpdns.org',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
